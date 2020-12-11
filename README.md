@@ -1,7 +1,6 @@
-
 # Music Builder
 
-Building AI course project
+Final project for the Building AI course
 
 ## Summary
 
@@ -11,8 +10,6 @@ It is designed for entertainment. Use many songs as data, and let the model gene
 ## Background
 
 When the listener has already finished listening all the songs of one singer, he can explore some new special songs.
-
-
 
 ## How is it used?
 
